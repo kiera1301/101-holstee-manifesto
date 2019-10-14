@@ -1,0 +1,87 @@
+/*Text and fonts*/
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  font-size: 18px;
+}
+
+span {
+  font-family: 'Lobster', cursive;
+}
+
+.title {
+  font-size: 28px;
+  font-style: italic;
+  color: #404040;
+  border: pink solid 3px;
+  background: white;
+}
+#container {
+  background: lightgrey;
+  width: 500px;
+  overflow: auto;
+  border: lightgrey solid 8px;
+}
+
+.big-text {
+  font-size: 24px;
+}
+
+.left-side{
+  float: left;
+  clear: left;
+}
+
+.right-side {
+  float: right;
+  clear: right;
+}
+
+.box-one {
+  background: pink;
+  width: 220px;
+  padding: 15px;
+}
+
+.box-two {
+  background: lightblue;
+  width: 220px;
+  padding: 8px 15px;  
+}
+
+.box-three {
+  background: lightgreen;
+  width: 220px;
+  padding: 8px 15px;
+}
+
+.box-four {
+  background: lightblue;
+  width: 220px;
+  padding: 20px 15px;
+}
+
+.box-five {
+  background: orange;
+  width: 220px;
+  padding: 20px 15px;
+}
+
+.box-six {
+  background: lightgreen;
+  width: 220px;
+  padding: 50px 15px;
+}
+
+.box-seven {
+  background: lightpink;
+  width: 220px;
+  padding: 26px 15px;
+}
+
+.box-eight {
+  background: lightblue;
+  width: 220px;
+  padding: 50px 15px;
+}
